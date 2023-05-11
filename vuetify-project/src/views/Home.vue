@@ -1,14 +1,14 @@
 <template>
-  <v-app id='home'>
-    <NavBar />
+    <CaruselPart />
     <v-container fluid>
-
+      <MidPart />
     </v-container>
-  </v-app>
+    
 </template>
 
 <script setup>
-  import NavBar from '@/components/NavBar.vue'
+  import CaruselPart from '@/components/CaruselPart.vue'
+  import MidPart from '@/components/MidPart.vue'
 </script>
 
 <style>
