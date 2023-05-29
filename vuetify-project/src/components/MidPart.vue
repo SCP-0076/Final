@@ -71,9 +71,9 @@
                 <br />
               </div>
               <div class="child">
-                <h1 class="ml-3 mt-4">Dick?</h1>
+                <h1 class="ml-3 mt-4">bannanna?</h1>
                 <p class="text-grey ml-3 mt-4 text-caption">
-                  Dose minions have dick?
+                  Dose minions have bannana?
                 </p>
                 <br />
               </div>
@@ -88,7 +88,7 @@
             <v-col cols="12" sm="8">
               <h1 class="mt-9">Hire me ifu want to know</h1>
               <p class="text-grey">
-                I like minions, so i smart, so i can do job!
+                I like minions!
               </p>
             </v-col>
             <v-col cols="12" sm="4">
